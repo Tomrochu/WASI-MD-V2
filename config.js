@@ -66,7 +66,7 @@ module.exports = {
   packname: process.env.PACK_NAME || "♥️",
   botname: process.env.BOT_NAME || "Arthur-𝐌𝐃-𝐕5",
   ownername: process.env.OWNER_NAME || "Arthur",
-  errorChat: process.env.ERROR_CHAT || "263712196153",
+  errorChat: process.env.ERROR_CHAT || "263712196152",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
